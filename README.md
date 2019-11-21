@@ -1,3 +1,3 @@
 # Arx Fatalis - Flying creature
 
-!(image)[https://i.imgur.com/ziBjWty.jpg]
+[Imgur](https://imgur.com/ziBjWty)
