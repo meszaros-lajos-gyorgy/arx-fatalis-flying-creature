@@ -37,4 +37,4 @@ spawning the creature a lot easier. Grab a snapshot version from [this page](htt
 ## "Let's script" video series to show the progress
 
 * [Episode 1 - Spawning the creature in the game](https://youtu.be/eCWCfGUvObw)
-* Episode 2 - Giving the creature brains
+* [Episode 2 - Giving the creature brains](https://youtu.be/UTzwYiNHCQI)
